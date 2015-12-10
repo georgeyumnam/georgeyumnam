@@ -3,7 +3,7 @@ title:  "Thermoelectric materials"
 subtitle: "Recycling waste heat energy!"
 author: "George Yumnam"
 avatar: "img/authors/geo.png"
-image: "img/f.jpg"
+image: "img/f1.jpg"
 date:   2015-04-25 12:12:12
 ---
 
