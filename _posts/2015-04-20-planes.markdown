@@ -3,7 +3,7 @@ title:  "Transition metal dichalcogenides (TMDs)"
 subtitle: "Atomically thin semiconductors of MX<sub>2</sub> type"
 author: "George Yumnam"
 avatar: "img/authors/geo.png"
-image: "img/a.tiff"
+image: "img/a.png"
 date:   2015-04-20 12:12:12
 ---
 
