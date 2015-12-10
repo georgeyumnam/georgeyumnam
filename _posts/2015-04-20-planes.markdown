@@ -8,8 +8,14 @@ date:   2015-04-20 12:12:12
 ---
 
 ### Why TMDs?
-Semiconducting transition metal dichalcogenides (TMDs) possess promising electronic, optoelectronic, thermoelectric properties.
+Due to their promising electronic, optoelectronic, thermoelectric properties.
 
 ### What structure do they have?
 TMDs have quasi two-dimensional (2D) layered structure with transition metal atoms sandwiched between corresponding chalcogen sub-layers. These layers are bonded by van der Waals (vdW) interaction.
+
+### Why study TMDs?
+Ability to form 2D structures with relative ease in fabrication and characterization, hence making it very favourable for thin film device applications.
+
+### The ones I am after:
+Many researchers had reported various studies on Group - VI TMDs (Mo and W based), however I have found that Group - IV TMDs (Zr and Hf based) are very favorable for high temperature thermoelectric applications.
 
